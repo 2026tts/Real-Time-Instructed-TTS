@@ -1,0 +1,17 @@
+[1] Natural-English:
+The man speaks confidently and energetically in a clear Mandarin, posing a friendly challenge with a fast, high-pitched, and high-energy tone.
+
+[2] Natural-Chinese:
+这个年轻人用清晰、充满活力的普通话提出友好的挑战，语调高亢且能量满满。
+
+[3] Expressive-English:
+A confident, energetic voice rings out in a clear Mandarin, enthusiastically challenging someone to a friendly game, with a quick, high-pitched, and vibrant rhythm.
+
+[4] Expressive-Chinese:
+那声音自信而充满活力，在清脆的普通话中热情地发起友好挑战，节奏快速而充满活力。
+
+[5] Label-English:
+confident, energetic, clear Mandarin, fast, high-pitched, high-energy
+
+[6] Label-Chinese:
+自信、充满活力、清晰普通话、快、高音调、高能量

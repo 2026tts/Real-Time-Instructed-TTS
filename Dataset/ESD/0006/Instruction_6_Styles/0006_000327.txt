@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, resigned voice speaks clearly and matter-of-factly, with a slight downturn at the end, conveying quiet frustration in a high-quality, dry acoustic setting.
+
+[2] Natural-Chinese:
+一个冷静而沮丧的声音清晰而平淡地说话，每句话末尾略带下沉，传达出一种安静的挫败感，在一个干燥的高质量录音环境中。
+
+[3] Expressive-English:
+A calm, resigned voice resonates with a slight downturn, speaking clearly and matter-of-factly, conveying a quiet sense of frustration in a pristine acoustic environment.
+
+[4] Expressive-Chinese:
+一个冷静而沮丧的声音在纯净的录音环境中回荡，略带下沉，清晰而平淡地说话，传达出一种安静的挫败感。
+
+[5] Label-English:
+calm, resigned, slight downturn, clear, high-quality
+
+[6] Label-Chinese:
+冷静、沮丧、轻微下沉、清晰、高质量

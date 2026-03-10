@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered in a clear, neutral tone with a slightly nasal timbre, maintaining a steady pace and low energy level.
+
+[2] Natural-Chinese:
+声音清晰平和，带有一点鼻音，节奏平稳，能量较低。
+
+[3] Expressive-English:
+A clear, slightly nasal voice speaks in a matter-of-fact manner, maintaining a steady pace and delivering a flat, unemotional message with low energy.
+
+[4] Expressive-Chinese:
+声音清晰而略带鼻音，语气平淡，节奏稳定，能量不高。
+
+[5] Label-English:
+clear, neutral, slight nasal, steady, flat, low-energy
+
+[6] Label-Chinese:
+清晰、中性、轻微鼻音、稳定、平直、低能量

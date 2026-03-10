@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a calm, neutral tone and low energy, indicating a relaxed and straightforward statement.
+
+[2] Natural-Chinese:
+语速适中、语气平静且没有强烈的情绪，整体能量较低，传达出一种轻松的态度。
+
+[3] Expressive-English:
+A calm, neutral voice flows steadily, like a stream of clear water, conveying a straightforward and relaxed message without any emotional intensity.
+
+[4] Expressive-Chinese:
+语气平静如流水般平稳地流淌，传达出一种轻松和直接的信息，没有任何强烈的情绪。
+
+[5] Label-English:
+medium, neutral, stable pitch, medium-energy
+
+[6] Label-Chinese:
+适中、平静、稳定音调、中等能量

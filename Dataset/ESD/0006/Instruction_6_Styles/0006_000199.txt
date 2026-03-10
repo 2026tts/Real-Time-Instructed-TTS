@@ -1,0 +1,17 @@
+[1] Natural-English:
+A slow, warm, low-pitched voice delivers a heartfelt compliment with a gentle, sincere tone and medium energy.
+
+[2] Natural-Chinese:
+一个语速缓慢、语气温暖的声音以低沉的语调表达了诚挚的赞美，充满情感和中等的能量。
+
+[3] Expressive-English:
+A gentle, low-pitched voice whispers a heartfelt compliment, slow and sincere, conveying warmth and intimacy.
+
+[4] Expressive-Chinese:
+一个温柔低沉的声音缓缓地表达了真挚的赞美，充满了温暖和亲密感。
+
+[5] Label-English:
+slow, warm, low pitch, sincere, medium energy
+
+[6] Label-Chinese:
+慢、温暖、低音、诚恳、中等能量

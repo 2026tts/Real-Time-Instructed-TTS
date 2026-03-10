@@ -1,0 +1,17 @@
+[1] Natural-English:
+With a deep, resonant voice, he speaks with high energy and a sense of urgency, conveying a passionate and almost desperate conviction.
+
+[2] Natural-Chinese:
+他用深沉有力的声音，充满紧迫感和激情，几乎带着一种绝望的坚定。
+
+[3] Expressive-English:
+A deep, resonant voice, charged with high energy and urgency, conveys a passionate and almost desperate conviction, as if every word is a plea for survival.
+
+[4] Expressive-Chinese:
+那声音深沉有力，充满紧迫感和激情，仿佛每一句话都是求生的呐喊。
+
+[5] Label-English:
+deep, passionate, high-energy, urgent
+
+[6] Label-Chinese:
+深沉、热情、高能量、急迫

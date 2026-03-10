@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks in a measured, clear tone with a mid-range pitch and moderate energy, conveying a neutral and factual message.
+
+[2] Natural-Chinese:
+他用平稳清晰的声音，中等音调和适中的能量，传达出中性的事实信息。
+
+[3] Expressive-English:
+A smooth, resonant voice delivers the time with precision and clarity, maintaining a neutral tone and a comfortable mid-pitch.
+
+[4] Expressive-Chinese:
+那声音平滑而有共鸣，精确清晰地传达时间，保持中性语气和舒适的中音调。
+
+[5] Label-English:
+neutral, clear, stable pitch, moderate-energy
+
+[6] Label-Chinese:
+中性、清晰、稳定音调、适中能量

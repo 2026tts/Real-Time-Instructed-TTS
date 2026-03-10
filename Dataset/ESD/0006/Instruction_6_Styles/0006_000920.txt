@@ -1,0 +1,17 @@
+[1] Natural-English:
+A fast, high-pitched, energetic voice delivers a motivational message with a steady, bright tone and strong emphasis.
+
+[2] Natural-Chinese:
+语速快、高音调、充满能量的声音传达着激励的信息，语气明亮且有力。
+
+[3] Expressive-English:
+An energized, fast-talking voice, high and bright, pounds out a motivational message with emphatic pauses and a rising intonation.
+
+[4] Expressive-Chinese:
+充满能量的声音快速而高亢，用强烈停顿和上升语调大声传达激励的话语。
+
+[5] Label-English:
+fast, energetic, high pitch, stable
+
+[6] Label-Chinese:
+快、充满能量、高音调、稳定

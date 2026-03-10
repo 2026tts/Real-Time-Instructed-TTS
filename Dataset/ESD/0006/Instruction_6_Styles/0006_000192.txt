@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is slow and deliberate, with a calm, measured tone and a slight downward inflection, reflecting a sense of finality and resignation.
+
+[2] Natural-Chinese:
+语速缓慢而坚定，语气平和但带有一丝决绝和无奈。
+
+[3] Expressive-English:
+A calm, deliberate voice speaks in measured tones, conveying a sense of finality and resignation, as if delivering a heartfelt farewell.
+
+[4] Expressive-Chinese:
+语气平静而坚决，仿佛在缓缓地道出一段深情的告别，充满了最后的决绝和无奈。
+
+[5] Label-English:
+slow, calm, stable pitch, medium-energy
+
+[6] Label-Chinese:
+慢、冷静、稳定声调、中等能量

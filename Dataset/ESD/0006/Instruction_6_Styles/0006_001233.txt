@@ -1,0 +1,17 @@
+[1] Natural-English:
+A relaxed, intimate voice speaks slowly and deliberately, conveying a sense of private sharing and mild surprise with a gentle, rising inflection.
+
+[2] Natural-Chinese:
+一个放松、亲密的声音慢慢而清晰地说着，带着一种私密分享和轻微惊讶的感觉。
+
+[3] Expressive-English:
+A relaxed, intimate voice softly shares a surprising news, speaking slowly and deliberately, with a gentle rise on "猜不到" and a breathy delivery on "孩子".
+
+[4] Expressive-Chinese:
+一个放松的声音温柔地分享了一个令人惊讶的消息，语气缓慢而清晰，带着轻微上升的语调说“猜不到”，以及轻柔的气息说“孩子”。
+
+[5] Label-English:
+slow, intimate, gentle rising, breathy, low-energy
+
+[6] Label-Chinese:
+慢、亲密、轻柔上扬、轻呼吸、低能量

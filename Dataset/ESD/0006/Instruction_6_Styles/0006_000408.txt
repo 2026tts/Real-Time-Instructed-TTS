@@ -1,0 +1,17 @@
+[1] Natural-English:
+A clear, authoritative voice speaks steadily with a medium tempo, high energy, and a confident, majestic tone.
+
+[2] Natural-Chinese:
+一个清晰而权威的声音以中等节奏和高能量平稳地说出，语气自信且宏伟。
+
+[3] Expressive-English:
+With a steady, authoritative voice, the speaker conveys grandeur and confidence in a medium-paced, high-energy delivery, making people feel broad and grand.
+
+[4] Expressive-Chinese:
+以平稳而权威的声音传达宏大的自信，中等节奏和高能量的话语让人心生敬仰和广阔之感。
+
+[5] Label-English:
+medium tempo, confident, authoritative, high energy
+
+[6] Label-Chinese:
+中速、自信、权威、高能量

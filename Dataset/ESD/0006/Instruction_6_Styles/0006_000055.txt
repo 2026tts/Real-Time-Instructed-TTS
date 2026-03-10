@@ -1,0 +1,17 @@
+[1] Natural-English:
+A clear, neutral voice speaks in a steady, medium-paced manner with a stable pitch and moderate energy, conveying a factual and informative tone.
+
+[2] Natural-Chinese:
+一个清晰、中性的声音以平稳的速度和稳定的声调传达出事实性和信息性的语气，能量适中。
+
+[3] Expressive-English:
+In a quiet, controlled space, a professional voice delivers a precise statement with a calm, neutral tone, maintaining a steady pace and a stable pitch throughout.
+
+[4] Expressive-Chinese:
+在一个安静且受控的空间里，一个专业的声音以平静且中性的方式传达了一个精确的陈述，整个过程中保持稳定的语速和平稳的声调。
+
+[5] Label-English:
+neutral, factual, stable pitch, medium-energy
+
+[6] Label-Chinese:
+中性、事实性、稳定声调、适中能量

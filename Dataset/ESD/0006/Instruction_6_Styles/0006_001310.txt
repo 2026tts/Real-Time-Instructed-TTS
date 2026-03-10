@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is slow and low, filled with sadness and resignation, delivered with a trembling pitch and low energy.
+
+[2] Natural-Chinese:
+语速缓慢且低沉，带着悲伤和无奈的情绪，声线微微颤抖，能量很低。
+
+[3] Expressive-English:
+A slow, low, and trembling voice conveys deep sadness and resignation, its energy waning like a fading sigh.
+
+[4] Expressive-Chinese:
+声音缓慢低沉，带着颤音的悲伤和无奈，仿佛随着一声叹息逐渐消散。
+
+[5] Label-English:
+slow, sad, trembling pitch, low-energy
+
+[6] Label-Chinese:
+慢、悲伤、颤音、低能量

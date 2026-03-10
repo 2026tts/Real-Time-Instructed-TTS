@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered in a clear, high-energy manner with a bright, excited tone and mid-range pitch.
+
+[2] Natural-Chinese:
+这段话以清晰、充满活力的方式传达，语气明亮兴奋，声调中等。
+
+[3] Expressive-English:
+A vibrant, high-energy voice proclaims the news with enthusiasm, rising slightly at the end, like a joyful shout.
+
+[4] Expressive-Chinese:
+那声音充满活力，带着喜悦的高亢，语气上扬，像是快乐的呐喊。
+
+[5] Label-English:
+fast, happy, high pitch, high energy
+
+[6] Label-Chinese:
+快、高兴、高音调、高能量

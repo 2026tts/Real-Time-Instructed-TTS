@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered calmly and neutrally, with a medium pace and stable pitch, conveying a straightforward, low-energy statement.
+
+[2] Natural-Chinese:
+这段话平静而中性地传达，语速适中，声调平稳，能量较低。
+
+[3] Expressive-English:
+A calm, neutral voice speaks clearly and unhurriedly, delivering a straightforward message about a household appliance in a dry, professional setting.
+
+[4] Expressive-Chinese:
+一个冷静中性的声音清晰且不急不缓地传达了一个关于家用电器的信息，在一个干燥的专业环境中。
+
+[5] Label-English:
+neutral, clear, unhurried, stable pitch, low-energy, formal
+
+[6] Label-Chinese:
+中性、清晰、不急不缓、稳定声调、低能量、正式

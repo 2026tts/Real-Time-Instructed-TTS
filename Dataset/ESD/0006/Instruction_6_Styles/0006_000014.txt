@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice speaks slowly and calmly, with a gentle and reassuring tone, conveying a low and stable energy level.
+
+[2] Natural-Chinese:
+语速缓慢而平稳，语气温和且安抚人心，整体能量较低且稳定。
+
+[3] Expressive-English:
+A calm, gentle voice speaks softly and steadily, radiating a comforting and composed energy, as if offering support in a quiet moment.
+
+[4] Expressive-Chinese:
+那声音平和而温柔，轻柔地传递着安慰与镇定，仿佛在安静的时刻给予支持。
+
+[5] Label-English:
+slow, calm, stable pitch, low-energy
+
+[6] Label-Chinese:
+慢、平静、稳定音调、低能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, gentle, and reassuring voice delivers the motivational statement with a steady, measured pace and clear pronunciation, creating a soothing and empathetic tone.
+
+[2] Natural-Chinese:
+一个平静、温柔且令人安心的声音以稳定而清晰的语调传达励志的话语，营造出抚慰人心和同理心的氛围。
+
+[3] Expressive-English:
+A reassuring, measured voice resonates softly, offering comfort and encouragement, as if whispering words of support directly into the listener's ear.
+
+[4] Expressive-Chinese:
+一个安慰人心的声音以平稳的语调轻轻回响，仿佛直接对着听者耳语般地给予支持与鼓励。
+
+[5] Label-English:
+calm, reassuring, measured pace, clear pronunciation, soothing tone
+
+[6] Label-Chinese:
+平静、令人安心、稳定语速、清晰发音、舒缓语气

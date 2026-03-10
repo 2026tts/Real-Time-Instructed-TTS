@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a stable pitch and medium energy, while the electronic tone that follows is fast, sharp, and loud, creating a stark contrast.
+
+[2] Natural-Chinese:
+语音以中等速度平稳地说出，能量适中，随后突然出现一个快速、尖锐且响亮的电子音调，形成了鲜明对比。
+
+[3] Expressive-English:
+A calm, formal statement in Mandarin flows smoothly, then abruptly shifts to a loud, unwavering electronic buzz, dramatically altering the mood.
+
+[4] Expressive-Chinese:
+一段冷静正式的普通话流畅地表达出来，然后突然转变为一个响亮、不变调的电子嗡鸣声，戏剧性地改变了气氛。
+
+[5] Label-English:
+medium, stable, medium-energy, fast, sharp, loud
+
+[6] Label-Chinese:
+中速、稳定、中能量、快、尖锐、响亮

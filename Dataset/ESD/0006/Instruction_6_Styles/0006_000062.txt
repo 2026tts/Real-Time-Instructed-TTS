@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered in a slow, deliberate manner with a calm, slightly lower pitch and a sense of emotional gravity, maintaining a medium energy level.
+
+[2] Natural-Chinese:
+语气缓慢而坚定，略带低沉的情绪，能量适中，传达出一种情感上的分量感。
+
+[3] Expressive-English:
+A calm, slightly lower-pitched voice speaks in a slow, deliberate manner, conveying a sense of emotional gravity and finality, with a medium level of energy.
+
+[4] Expressive-Chinese:
+语气平缓而略带低沉，缓缓道来，充满情感的重量感和决绝感，能量适中。
+
+[5] Label-English:
+slow, calm, slightly low pitch, medium energy, resigned, emotional gravity
+
+[6] Label-Chinese:
+慢、冷静、略低音调、中等能量、略带决绝、情感分量

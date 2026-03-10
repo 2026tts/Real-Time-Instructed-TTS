@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is slow and low, with a trembling pitch and a sad, melancholic tone, conveying a deep emotional resonance.
+
+[2] Natural-Chinese:
+语速缓慢、声调低沉且带颤音，情绪悲伤而深沉，充满情感共鸣。
+
+[3] Expressive-English:
+A slow, breathy voice carries a deep, melancholic tone, trembling slightly, as if each word echoes with sorrow and longing.
+
+[4] Expressive-Chinese:
+那声音缓慢而低沉，带着微颤，仿佛每个字都回荡着悲伤和渴望。
+
+[5] Label-English:
+slow, sad, low pitch, trembling, low-energy
+
+[6] Label-Chinese:
+慢、悲伤、低音、颤音、低能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, deliberate voice speaks Mandarin with a steady, neutral tone and moderate energy, conveying a clear and focused message.
+
+[2] Natural-Chinese:
+一段平静而有条不紊的普通话陈述，语气平稳且能量适中，清晰传达出信息。
+
+[3] Expressive-English:
+A steady, neutral Mandarin voice delivers a clear and focused message, with a calm and unhurried pace, emphasizing the emotional neutrality.
+
+[4] Expressive-Chinese:
+一个平稳而冷静的普通话声音，以平稳的速度传达清晰的信息，情感中立。
+
+[5] Label-English:
+moderate, neutral, stable pitch, moderate-energy
+
+[6] Label-Chinese:
+中等、中性、稳定音调、中等能量

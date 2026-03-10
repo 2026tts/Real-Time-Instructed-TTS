@@ -1,0 +1,17 @@
+[1] Natural-English:
+The man speaks clearly and steadily in Mandarin, with a neutral tone and slightly contemplative pitch, delivering the statement with a calm and polite energy.
+
+[2] Natural-Chinese:
+这位男士用清晰平稳的普通话表达，语气中略带思考，传达出一种平静而礼貌的能量。
+
+[3] Expressive-English:
+A steady, clear voice in Mandarin conveys a calm and thoughtful tone, maintaining a level pitch and medium energy as the speaker politely expresses uncertainty.
+
+[4] Expressive-Chinese:
+用平稳清晰的普通话表达，语气平和且略带深思，保持稳定的语调和中等能量，礼貌地表达着不确定感。
+
+[5] Label-English:
+clear, neutral, steady, medium-energy
+
+[6] Label-Chinese:
+清晰、中性、平稳、中等能量

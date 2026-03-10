@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks in a moderate pace with a casual, slightly resigned tone, delivering a self-deprecating statement in clear Mandarin, giving off a low-energy yet neutral vibe.
+
+[2] Natural-Chinese:
+他以中等语速和略带沮丧的语气用清晰的普通话表达自己只会玩斗地主之类的游戏，情绪平稳但能量较低。
+
+[3] Expressive-English:
+A relaxed, slightly resigned voice speaks in a casual manner, delivering a self-deprecating comment about playing simple games, carried with a steady, neutral tone and low energy.
+
+[4] Expressive-Chinese:
+一个放松且略带沮丧的声音以轻松的语气说出自己只会玩简单的游戏，语调平稳而充满自嘲，能量不高。
+
+[5] Label-English:
+moderate pace, neutral tone, casual, low-energy
+
+[6] Label-Chinese:
+中等语速、平稳语气、随意、低能量

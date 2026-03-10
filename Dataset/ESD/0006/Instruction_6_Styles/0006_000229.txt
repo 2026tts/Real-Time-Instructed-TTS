@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered in a measured, neutral tone with a medium tempo, calm emotion, stable pitch, and medium energy.
+
+[2] Natural-Chinese:
+这段话以平稳、中速、冷静的语气说出，音调稳定，能量适中。
+
+[3] Expressive-English:
+A calm, deliberate voice speaks in a measured, neutral tone, maintaining a steady pitch and medium energy, like a professional giving instructions.
+
+[4] Expressive-Chinese:
+一个冷静、稳重的声音以平缓、中速的方式传达信息，音调平稳，能量适中，仿佛是在专业地指导他人。
+
+[5] Label-English:
+medium tempo, neutral emotion, stable pitch, medium energy
+
+[6] Label-Chinese:
+中速、平静、稳定音调、适中能量

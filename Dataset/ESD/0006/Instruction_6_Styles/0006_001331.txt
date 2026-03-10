@@ -1,0 +1,17 @@
+[1] Natural-English:
+A soft, gentle voice speaks slowly and warmly, with a slightly raspy tone and a breathy quality, conveying a calm and tender emotion.
+
+[2] Natural-Chinese:
+一个温柔的声音缓缓地说着，语气略带沙哑，带着轻柔的气息，传递出一种平静和温情的情绪。
+
+[3] Expressive-English:
+A soft, gentle voice whispers slowly and warmly, with a slightly raspy tone and a breathy quality, evoking a sense of tender and comforting intimacy.
+
+[4] Expressive-Chinese:
+一个温柔的声音轻声细语，语气略带沙哑，带着轻柔的气息，唤起一种温馨和抚慰的亲密感。
+
+[5] Label-English:
+slow, warm, slightly raspy, breathy, calming
+
+[6] Label-Chinese:
+慢、温暖、略带沙哑、轻柔气息、安抚

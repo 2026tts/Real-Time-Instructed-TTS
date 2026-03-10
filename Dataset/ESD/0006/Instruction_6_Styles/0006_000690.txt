@@ -1,0 +1,17 @@
+[1] Natural-English:
+A gentle, low-pitched, warm voice speaks softly and unhurriedly, conveying a sense of deep contentment and affection.
+
+[2] Natural-Chinese:
+一个温柔的低沉嗓音缓缓道来，充满着深深的幸福感和亲密感。
+
+[3] Expressive-English:
+With a tender, low-pitched resonance, the voice flows gently, radiating a profound sense of contentment and intimacy.
+
+[4] Expressive-Chinese:
+那声音低沉而温柔，缓缓流淌出深深的幸福感和亲密无间的氛围。
+
+[5] Label-English:
+medium, happy, stable pitch, medium-energy
+
+[6] Label-Chinese:
+中、幸福、稳定音调、中等能量

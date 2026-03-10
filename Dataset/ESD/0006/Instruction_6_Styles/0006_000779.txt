@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered calmly and respectfully, with a slightly elevated and stable pitch, and a medium energy level.
+
+[2] Natural-Chinese:
+说话人语气平和而尊敬，声调略微提高且稳定，能量适中。
+
+[3] Expressive-English:
+A calm, respectful voice delivers a clear and precise sentence, with a slightly elevated and stable pitch, maintaining a medium energy level.
+
+[4] Expressive-Chinese:
+一个语气平和而尊敬的声音清晰准确地传达了一句话，声调略微提高且稳定，保持着适中的能量。
+
+[5] Label-English:
+calm, respectful, slightly elevated pitch, medium energy
+
+[6] Label-Chinese:
+平和、尊敬、略高声调、适中能量

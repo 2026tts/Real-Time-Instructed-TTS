@@ -1,0 +1,17 @@
+[1] Natural-English:
+A high-pitched, energetic voice delivers the statement confidently and warmly, with a bright and enthusiastic tone.
+
+[2] Natural-Chinese:
+一个高亢、充满活力的声音以自信而热情的方式清晰地说出这句话，带着明亮和热情的语气。
+
+[3] Expressive-English:
+With a high-pitched, energetic voice, the speaker confidently and warmly delivers the statement, radiating enthusiasm and brightness.
+
+[4] Expressive-Chinese:
+带着高亢而充满活力的声音，说话人自信而热情地传达了这句话，散发着热情和明亮的气息。
+
+[5] Label-English:
+high, enthusiastic, bright pitch, high-energy
+
+[6] Label-Chinese:
+高、热情、明亮、高能量

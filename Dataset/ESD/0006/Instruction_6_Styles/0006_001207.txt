@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is slow and low-pitched, with a subdued and tired tone, delivering the words with a calm but reflective energy.
+
+[2] Natural-Chinese:
+语速缓慢，声调低沉且略显疲惫，语气平静而深思熟虑。
+
+[3] Expressive-English:
+A low, deliberate voice, tinged with weariness, speaks in a measured, reflective manner, conveying a sense of resignation and empathy.
+
+[4] Expressive-Chinese:
+声音低沉而有分寸，带着疲惫的意味，语调沉稳而富有同情心。
+
+[5] Label-English:
+slow, low, subdued, low-energy
+
+[6] Label-Chinese:
+慢、低、压抑、低能量

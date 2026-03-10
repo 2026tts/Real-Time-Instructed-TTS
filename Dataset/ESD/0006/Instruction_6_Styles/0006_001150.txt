@@ -1,0 +1,17 @@
+[1] Natural-English:
+A young adult's somber, low, and slightly breathy voice delivers a slow, deliberate monologue in Mandarin, transitioning abruptly to a loud, static electronic tone.
+
+[2] Natural-Chinese:
+一个年轻成年人低沉、略带喘息的声音缓慢而认真地说着普通话，突然被一个刺耳的电子噪音打断。
+
+[3] Expressive-English:
+The young adult's somber, low, and slightly breathy voice narrates a story in Mandarin with a slow, deliberate pace, only to be abruptly silenced by a harsh, buzzing electronic tone.
+
+[4] Expressive-Chinese:
+年轻成年男子低沉、略带喘息的声音缓缓讲述故事，用普通话以缓慢而认真的语调，却被一个刺耳的嗡嗡声突然中断。
+
+[5] Label-English:
+slow, somber, breathy, low-energy, abrupt censor tone
+
+[6] Label-Chinese:
+慢、忧郁、喘息、低能量、突然的电子噪音

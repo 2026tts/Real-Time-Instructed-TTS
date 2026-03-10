@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a clear, resonant tone and high energy, expressing earnest anticipation and polite deference.
+
+[2] Natural-Chinese:
+这段演讲语速适中，语气清晰洪亮，充满敬意和诚挚期待，能量充沛。
+
+[3] Expressive-English:
+With a clear, resonant voice and high energy, the speaker conveys earnest anticipation and polite deference, emphasizing the emotional weight of the message with a gentle rise in pitch.
+
+[4] Expressive-Chinese:
+那声音清晰有力，充满敬意和诚挚期待，语气中带着轻微的上扬，强调了信息的情感分量。
+
+[5] Label-English:
+medium, respectful, clear pitch, high-energy
+
+[6] Label-Chinese:
+中速、敬重、清晰声调、高能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks in a calm, neutral tone with a steady pace and medium energy, delivering a clear and unemotional message.
+
+[2] Natural-Chinese:
+他用平静、中性的语气平稳地传达信息，没有强烈的情绪波动，能量适中。
+
+[3] Expressive-English:
+A calm, neutral voice conveys a straightforward message with a steady, measured pace, maintaining a composed and unemotional tone.
+
+[4] Expressive-Chinese:
+那声音平和而中性，以稳定的速度传达信息，保持一种从容而不带情感波动的语气。
+
+[5] Label-English:
+calm, neutral, stable pitch, medium-energy
+
+[6] Label-Chinese:
+平静、中性、稳定音调、中等能量

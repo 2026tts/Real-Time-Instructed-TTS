@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is medium-tempo with a neutral tone, slightly rising at the end, and has a stable pitch with medium energy.
+
+[2] Natural-Chinese:
+语音节奏适中，语气平和，略有上扬，声调稳定，能量适中。
+
+[3] Expressive-English:
+A neutral, slightly rising tone conveys a straightforward statement, with a steady pitch and moderate energy, punctuated by a crisp electronic sting.
+
+[4] Expressive-Chinese:
+一个平稳略带上扬的语气传达出直接陈述的信息，声调稳定，能量适中，随后是清脆的电子音效。
+
+[5] Label-English:
+medium-tempo, neutral, rising tone, stable pitch, medium-energy
+
+[6] Label-Chinese:
+适中节奏、中性语气、轻微上扬、稳定声调、适中能量

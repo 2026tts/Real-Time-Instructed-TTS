@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered in a calm, slightly raspy tone at a medium pace, expressing a subdued and gentle emotion with a low, stable pitch and medium energy.
+
+[2] Natural-Chinese:
+语气平静略带沙哑，语速适中，情绪温和低沉，声调平稳，能量适中。
+
+[3] Expressive-English:
+A calm, slightly raspy voice speaks gently and deliberately, conveying a subdued and tender emotion in a low, steady tone with moderate energy.
+
+[4] Expressive-Chinese:
+那声音平静而略带沙哑，轻柔而有分寸地表达着一种温和而克制的情绪，声调低且稳定，能量适中。
+
+[5] Label-English:
+medium pace, calm, slightly raspy, low-stable pitch, medium energy
+
+[6] Label-Chinese:
+适中语速、平静、略带沙哑、低平稳声调、适中能量

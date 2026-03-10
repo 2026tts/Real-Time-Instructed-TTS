@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is fast and high-pitched, filled with intense emotion and energy, conveying distress and urgency.
+
+[2] Natural-Chinese:
+语气快速而高亢，充满强烈的情感和能量，传达出焦虑和急迫感。
+
+[3] Expressive-English:
+A fast, high-pitched voice bursts forth with intense emotion, urgency, and agitation, almost crying out the words.
+
+[4] Expressive-Chinese:
+那声音快速而高亢，几乎是在哭泣般地表达着强烈的感情、紧迫感和激动。
+
+[5] Label-English:
+fast, intense, high pitch, high energy
+
+[6] Label-Chinese:
+快、强烈、高音调、高能量

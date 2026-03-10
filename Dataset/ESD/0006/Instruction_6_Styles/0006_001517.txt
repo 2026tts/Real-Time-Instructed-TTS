@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is medium-paced and clear, with a steady pitch and moderate energy, conveying a gentle urgency.
+
+[2] Natural-Chinese:
+语速适中、清晰平稳，带着轻微的紧迫感，能量适中。
+
+[3] Expressive-English:
+A clear, steady voice delivers the message with a gentle urgency, maintaining a stable pitch and medium energy level.
+
+[4] Expressive-Chinese:
+声音清晰稳定，带着温和的急迫感，声调平和，能量适中。
+
+[5] Label-English:
+medium pace, clear, steady pitch, moderate energy
+
+[6] Label-Chinese:
+适中语速、清晰、稳定声调、适中能量

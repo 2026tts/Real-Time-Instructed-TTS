@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks in a calm, resonant tone with a deep, mature voice, maintaining a steady pace and clear articulation, conveying a sense of authority and professionalism.
+
+[2] Natural-Chinese:
+他用平稳而深沉的声音讲述，语速适中，发音清晰，传递出权威和专业的感觉。
+
+[3] Expressive-English:
+A deep, resonant voice delivers a calm, measured statement, with clear articulation and a focused, authoritative presence.
+
+[4] Expressive-Chinese:
+那声音深沉而有穿透力，平静而准确地传达信息，充满权威和专注感。
+
+[5] Label-English:
+medium, neutral, stable pitch, high-energy
+
+[6] Label-Chinese:
+中速、中性、稳定声调、高能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a neutral tone, high and stable pitch, and moderate energy level.
+
+[2] Natural-Chinese:
+这段话以中等语速、平稳的语气、高且稳定的音调和适中的能量水平表达出来。
+
+[3] Expressive-English:
+A clear and neutral voice, slightly contemplative, floats in the middle of the stereo field, resonating with a high, steady pitch and a calm energy.
+
+[4] Expressive-Chinese:
+一个清晰、中立的声音，在立体声场中间漂浮，带着轻微的沉思，高且稳定的音调伴随着平静的能量。
+
+[5] Label-English:
+medium, neutral, high-stable pitch, medium-energy
+
+[6] Label-Chinese:
+中等、中立、高稳定音调、中等能量

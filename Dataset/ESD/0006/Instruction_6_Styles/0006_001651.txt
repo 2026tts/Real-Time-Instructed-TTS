@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, clear voice speaks at a medium pace with a stable pitch and medium energy, delivering two short, declarative sentences in Mandarin.
+
+[2] Natural-Chinese:
+一个平静清晰的声音以中等语速和稳定音调，用标准普通话念出两个简短的陈述句，能量适中。
+
+[3] Expressive-English:
+With a calm, clear delivery, the voice resonates steadily and confidently, articulating two concise statements in Mandarin with a neutral tone.
+
+[4] Expressive-Chinese:
+声音平稳而清晰地传达了两个简洁的陈述句，语气冷静且坚定，完全用标准普通话表达。
+
+[5] Label-English:
+medium pace, calm, stable pitch, medium energy
+
+[6] Label-Chinese:
+中等语速、平静、稳定音调、适中能量

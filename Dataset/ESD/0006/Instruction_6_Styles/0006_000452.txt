@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, steady voice speaks in a neutral tone with a medium tempo and stable pitch, delivering a simple, unhurried statement in Mandarin.
+
+[2] Natural-Chinese:
+一个平静、稳重的声音用中等速度和稳定的声调说了一段简单的中文陈述。
+
+[3] Expressive-English:
+A measured, neutral voice in a studio setting delivers a simple, unhurried statement with a medium tempo and stable pitch, evoking a sense of professionalism and clarity.
+
+[4] Expressive-Chinese:
+在一个录音棚里，一个平和、稳重的声音以中等速度和稳定声调传达了一个简单、不急不缓的陈述，营造出一种专业和清晰的感觉。
+
+[5] Label-English:
+medium tempo, neutral, stable pitch, medium energy
+
+[6] Label-Chinese:
+中速、中立、稳定声调、中等能量

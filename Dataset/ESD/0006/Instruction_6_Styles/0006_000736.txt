@@ -1,0 +1,17 @@
+[1] Natural-English:
+A clear, steady voice delivers the statement calmly and evenly, with a medium pitch and moderate energy.
+
+[2] Natural-Chinese:
+一个清晰的声音平稳而平静地陈述，中等音调，能量适中。
+
+[3] Expressive-English:
+A smooth, matter-of-fact voice flows steadily, maintaining a calm, neutral tone and medium energy level.
+
+[4] Expressive-Chinese:
+声音平稳而平静，陈述时语气平实，中等音调，能量适中。
+
+[5] Label-English:
+medium pitch, calm, stable, medium energy
+
+[6] Label-Chinese:
+中等音调, 平静, 稳定, 中等能量

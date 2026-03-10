@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered in a slow, steady, low-pitched tone with a stable pitch and medium energy, conveying a neutral and detached emotion.
+
+[2] Natural-Chinese:
+语速平稳缓慢，声调低沉稳定，带有中等的能量，表达了一种中性的、略带冷漠的情绪。
+
+[3] Expressive-English:
+A calm, measured voice flows with a low, stable pitch, maintaining a medium energy level, delivering a neutral and somewhat resigned sentiment.
+
+[4] Expressive-Chinese:
+语气平缓而冷静，声线低沉且稳定，能量适中，传达出一种中性且略带无奈的情感。
+
+[5] Label-English:
+slow, neutral, stable pitch, medium energy
+
+[6] Label-Chinese:
+慢、中性、稳定音调、中等能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered with a fast, assertive pace and low, commanding pitch, conveying high energy and urgency.
+
+[2] Natural-Chinese:
+语气快速而坚定，声调低沉有力，充满高能量和紧迫感。
+
+[3] Expressive-English:
+A powerful, urgent voice commands with a rapid, low-pitched delivery, exuding intense energy and authority.
+
+[4] Expressive-Chinese:
+那声音迅速而坚决，声调低沉有力，充满强烈的能量和权威感。
+
+[5] Label-English:
+fast, assertive, low pitch, high energy
+
+[6] Label-Chinese:
+快、坚定、低音、高能量
