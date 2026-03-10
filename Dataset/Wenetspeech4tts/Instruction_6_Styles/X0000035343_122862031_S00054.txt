@@ -1,0 +1,17 @@
+[1] Natural-English:
+The child's voice is clear and measured, with a slightly high and gentle pitch, conveying a sense of urgency and concern at a medium tempo and energy level.
+
+[2] Natural-Chinese:
+孩子的声音清晰而有条不紊，带有一点高且温和的声调，传达出一种关切和急迫的情绪，语速和能量都适中。
+
+[3] Expressive-English:
+A clear and measured voice, gently pitched and slightly high, conveys a sense of urgent concern, moving forward at a steady medium pace with moderate energy.
+
+[4] Expressive-Chinese:
+那声音清晰而有条不紊，带有一点高且温和的声调，传达出一种关切和急迫的情绪，以平稳的速度和适中的能量向前推进。
+
+[5] Label-English:
+clear, measured, slightly high pitch, medium tempo, moderate energy, urgent, concerned
+
+[6] Label-Chinese:
+清晰、有条不紊、略高声调、中等语速、适中能量、急迫、关切

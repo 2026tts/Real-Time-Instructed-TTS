@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm and clear female voice speaks in a measured tone, supported by a close, slightly sibilant recording, with a low-energy and steady pace.
+
+[2] Natural-Chinese:
+一位平静清晰的女性声音用平缓而准确的语速说话，录音近距离且略带嘶嘶声，能量低而稳定。
+
+[3] Expressive-English:
+A clear, measured voice resonates softly, enveloped in a close, slightly sibilant recording, maintaining a low-energy and steady rhythm throughout.
+
+[4] Expressive-Chinese:
+一个清晰而平缓的声音轻柔地回荡，被近距离且略带嘶嘶声的录音包围，整个过程保持低能量和稳定的节奏。
+
+[5] Label-English:
+slow, calm, stable pitch, low-energy
+
+[6] Label-Chinese:
+慢、平静、稳定声调、低能量

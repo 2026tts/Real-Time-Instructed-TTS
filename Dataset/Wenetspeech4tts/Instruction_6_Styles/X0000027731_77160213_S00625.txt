@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is medium-paced with a light, amused tone and medium energy, reflecting a casual, self-deprecating remark.
+
+[2] Natural-Chinese:
+她的语速适中，带有一丝轻松和自嘲的情绪，整体能量适中，仿佛是在轻松地谈论一件事情。
+
+[3] Expressive-English:
+A casual, self-deprecating tone emerges in a medium-paced voice, conveying a light-hearted yet slightly exasperated feeling, as if recounting a minor struggle with a touch of humor.
+
+[4] Expressive-Chinese:
+语气中带着一丝轻松的自嘲，语速适中，略带轻微的挫败感，仿佛在轻描淡写地讲述一件小事。
+
+[5] Label-English:
+moderate pace, light amusement, stable pitch, medium energy
+
+[6] Label-Chinese:
+适中语速、轻松自嘲、稳定声调、适中能量

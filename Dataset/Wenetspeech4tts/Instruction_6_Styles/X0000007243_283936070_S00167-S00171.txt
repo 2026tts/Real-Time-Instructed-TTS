@@ -1,0 +1,17 @@
+[1] Natural-English:
+The narration is delivered in a calm, measured tone with a mid-low pitch and steady pace, maintaining a neutral and objective energy level.
+
+[2] Natural-Chinese:
+叙述平稳而冷静，声调中等偏低，语速均匀，情绪中性且能量稳定。
+
+[3] Expressive-English:
+A calm, measured voice narrates with a mid-low pitch and steady pace, like a soothing breeze guiding through a quiet, well-lit room.
+
+[4] Expressive-Chinese:
+那声音平静而有节奏，声调中等偏低，语速均匀，如同轻柔的风引领着安静明亮的空间。
+
+[5] Label-English:
+calm, neutral, mid-low pitch, steady pace, objective, low-energy
+
+[6] Label-Chinese:
+平静、中性、中低音调、匀速、客观、低能量

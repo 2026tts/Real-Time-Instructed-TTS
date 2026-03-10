@@ -1,0 +1,17 @@
+[1] Natural-English:
+A clear, calm female voice speaks slowly and deliberately in Mandarin, emphasizing "老" with a slightly rising inflection, conveying a philosophical, slightly wistful tone.
+
+[2] Natural-Chinese:
+一位清晰、冷静的女性声音用缓慢而有条理的方式说中文，强调“老”时略有上扬，传达了一种哲学性的略带伤感的情绪。
+
+[3] Expressive-English:
+A calm, deliberate voice in Mandarin gently emphasizes "老" with a subtle rise, creating a thoughtful, slightly melancholic atmosphere.
+
+[4] Expressive-Chinese:
+一句冷静而有条理的中文声音轻轻强调“老”，带有轻微的上扬，营造出一种深思熟虑且略带伤感的氛围。
+
+[5] Label-English:
+slow, calm, stable pitch, medium-energy
+
+[6] Label-Chinese:
+慢、冷静、稳定音调、中等能量

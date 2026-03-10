@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks in a slow, formal tone with a neutral emotion, his voice clear and direct, conveying a high level of energy.
+
+[2] Natural-Chinese:
+他以缓慢而正式的语气说话，情感中性，声音清晰直接，充满较高的能量。
+
+[3] Expressive-English:
+A formal, slow voice narrates with clarity and precision, its neutral tone and high energy painting a vivid picture of a traditional garden.
+
+[4] Expressive-Chinese:
+一个正式而缓慢的声音清晰而精确地叙述着，其中性语气和高能量勾勒出传统花园的生动画面。
+
+[5] Label-English:
+slow, neutral, stable pitch, high-energy
+
+[6] Label-Chinese:
+慢、中性、稳定声调、高能量

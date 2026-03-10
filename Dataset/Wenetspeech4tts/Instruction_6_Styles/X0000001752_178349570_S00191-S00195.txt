@@ -1,0 +1,17 @@
+[1] Natural-English:
+The narration is delivered at a medium pace with a stable pitch and medium energy, conveying information clearly and formally.
+
+[2] Natural-Chinese:
+播报速度适中，声调平稳，能量适中，清晰而正式地传达信息。
+
+[3] Expressive-English:
+A steady, professional voice delivers the information in a clear, formal manner, maintaining a calm and focused tone throughout the narration.
+
+[4] Expressive-Chinese:
+播报员以稳定而专业的语气，清晰而正式地传达信息，整个过程中保持冷静和专注。
+
+[5] Label-English:
+medium, stable pitch, medium-energy, clear, formal
+
+[6] Label-Chinese:
+适中、平稳声调、适中能量、清晰、正式

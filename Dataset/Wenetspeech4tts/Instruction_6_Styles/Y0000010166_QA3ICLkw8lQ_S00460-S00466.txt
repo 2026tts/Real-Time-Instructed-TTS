@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks calmly and authoritatively, with a steady pitch and moderate energy, conveying a sense of confidence and formality.
+
+[2] Natural-Chinese:
+他语气平静而权威，语调稳定，能量适中，传递出自信和正式的感觉。
+
+[3] Expressive-English:
+With a calm, authoritative voice, he maintains a steady pace and tone, confidently defending Oris and Jon’s roles while subtly challenging any doubts.
+
+[4] Expressive-Chinese:
+他以平静而权威的语调维持着稳定的节奏和语气，自信地为Oris和Jon辩护，同时微妙地质疑任何疑虑。
+
+[5] Label-English:
+calm, authoritative, steady pitch, moderate energy
+
+[6] Label-Chinese:
+平静、权威、稳定音调、适中能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+His voice starts with a sharp intake of breath, then shifts to a rapid, high-pitched delivery filled with disbelief and mock incredulity, reflecting a lively and comedic tone.
+
+[2] Natural-Chinese:
+他一开始吸了一口气，然后迅速转换成快速、高音调的表达，充满不可置信和嘲讽的情绪，展现出生动而幽默的语气。
+
+[3] Expressive-English:
+A sudden intake of breath precedes a rapid, high-pitched delivery brimming with disbelief and mock incredulity, capturing the essence of a lively and comedic exchange.
+
+[4] Expressive-Chinese:
+先是一声突然的吸气，紧接着是快速、高音调的表达，充满了不可置信和嘲讽的情绪，捕捉到了一个生动而幽默的对话。
+
+[5] Label-English:
+surprised, fast, high pitch, energetic
+
+[6] Label-Chinese:
+惊讶、快速、高音调、充满活力

@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is slow and gentle, with a low and trembling pitch, and conveys a deep sense of emotional weight and vulnerability.
+
+[2] Natural-Chinese:
+她的语速缓慢而温柔，声线低沉且带有颤抖，传达出深厚的情感重量和脆弱感。
+
+[3] Expressive-English:
+A gentle, low-pitched voice, trembling slightly, flows slowly and deliberately, evoking a profound emotional resonance and vulnerability.
+
+[4] Expressive-Chinese:
+那声音温柔而低沉，略带颤音，缓缓流淌，充满深刻的情感共鸣和脆弱感。
+
+[5] Label-English:
+slow, sad, trembling pitch, low-energy
+
+[6] Label-Chinese:
+慢、悲伤、颤音、低能量

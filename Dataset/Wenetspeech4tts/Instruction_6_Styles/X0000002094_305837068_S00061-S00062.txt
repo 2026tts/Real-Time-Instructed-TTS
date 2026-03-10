@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is slow and gentle, with a high, stable pitch and medium energy, conveying a calm and soothing tone.
+
+[2] Natural-Chinese:
+她的语速缓慢而温柔，声调高且稳定，能量适中，传递出一种平静和安抚的感觉。
+
+[3] Expressive-English:
+A soft, high-pitched voice gently flows with a slow, soothing rhythm, creating a warm and reassuring atmosphere for young listeners.
+
+[4] Expressive-Chinese:
+那温柔的声音缓缓流淌，带着高音和轻柔的旋律，营造出一种温暖而安抚的氛围，适合给小孩子听。
+
+[5] Label-English:
+slow, gentle, high-stable pitch, medium-energy
+
+[6] Label-Chinese:
+慢、温柔、高稳定音调、中等能量

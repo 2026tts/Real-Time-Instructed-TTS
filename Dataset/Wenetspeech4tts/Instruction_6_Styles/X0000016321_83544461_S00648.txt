@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, measured male voice in standard Mandarin speaks clearly and deliberately, with a moderate pace and slight rise at the end, indicating a sense of uncertainty.
+
+[2] Natural-Chinese:
+一个冷静而有条理的男声用标准普通话清晰地说着，语速适中且略带上扬，显示出一种轻微的不确定感。
+
+[3] Expressive-English:
+A composed male voice in Mandarin, delivered with a calm, deliberate tone, progresses at a moderate pace, subtly rising at the end, hinting at a touch of concern.
+
+[4] Expressive-Chinese:
+一个冷静而有条理的男声用标准普通话平稳地表达，语速适中且在句尾略带上升，透露出一丝担忧。
+
+[5] Label-English:
+calm, neutral, moderate pace, slight rise
+
+[6] Label-Chinese:
+冷静、中性、适中语速、轻微上扬

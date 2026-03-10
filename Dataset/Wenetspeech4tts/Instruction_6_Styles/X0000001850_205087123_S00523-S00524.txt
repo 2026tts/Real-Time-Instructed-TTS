@@ -1,0 +1,17 @@
+[1] Natural-English:
+He speaks calmly and deliberately, with a low and clear pitch, conveying a reflective and measured energy.
+
+[2] Natural-Chinese:
+他语气平静而有条不紊，语调平稳且清晰，传达出一种深思熟虑的能量。
+
+[3] Expressive-English:
+A calm, measured voice delivers a thoughtful commentary, its steady pace and clear, low pitch reflecting a reflective and deliberate energy.
+
+[4] Expressive-Chinese:
+那声音平静而稳重，语调清晰低沉，透露出一种深思熟虑和谨慎的能量。
+
+[5] Label-English:
+slow, calm, clear pitch, medium-energy
+
+[6] Label-Chinese:
+慢、平静、清晰声调、中等能量

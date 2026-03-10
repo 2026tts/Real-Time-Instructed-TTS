@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered calmly and clearly, with a friendly tone and a warm, steady pitch, maintaining a medium energy level.
+
+[2] Natural-Chinese:
+这段演讲语气平和而清晰，带有一丝温暖，声调稳定，能量适中。
+
+[3] Expressive-English:
+A friendly, clear voice speaks calmly, with a warm, steady tone, and a medium energy level, inviting listeners to share the experience.
+
+[4] Expressive-Chinese:
+一个友好的声音清晰而平静地传达信息，声调温和而稳定，能量适中，鼓励听众分享感受。
+
+[5] Label-English:
+calm, friendly, steady pitch, medium energy
+
+[6] Label-Chinese:
+平和、友好、稳定音调、中等能量

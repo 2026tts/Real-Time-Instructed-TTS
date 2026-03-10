@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, measured female voice speaks Mandarin with a neutral tone, steady rhythm, and clear articulation, conveying a sense of professionalism and emotional neutrality.
+
+[2] Natural-Chinese:
+一位平静、 measured 的女性用标准普通话清晰地表达，语气平稳、中性，传递出专业和情感中立的感觉。
+
+[3] Expressive-English:
+Her voice flows smoothly and deliberately, like a well-polished stream, maintaining a neutral tone and a steady, rhythmic pace, hinting at a professional and composed delivery.
+
+[4] Expressive-Chinese:
+她的声音流畅而有条不紊，像一条精心打磨的溪流，语气保持中性和平稳的节奏，暗示着一种专业的从容。
+
+[5] Label-English:
+neutral, measured, clear articulation, steady pitch, professional tone
+
+[6] Label-Chinese:
+中性、 measured、清晰发音、稳定声调、专业语气

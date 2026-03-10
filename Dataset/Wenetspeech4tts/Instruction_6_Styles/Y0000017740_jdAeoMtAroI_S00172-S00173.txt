@@ -1,0 +1,17 @@
+[1] Natural-English:
+A deep, resonant voice speaks in a slow, formal tone with a steady pitch and high energy, conveying authority and confidence.
+
+[2] Natural-Chinese:
+一个低沉而浑厚的声音以缓慢而正式的语调说话，声线稳定且充满能量，传递出权威和自信。
+
+[3] Expressive-English:
+A powerful, deep voice resonates with a slow, deliberate pace and a high, steady pitch, radiating calm authority and unwavering confidence.
+
+[4] Expressive-Chinese:
+一个深沉有力的声音以缓慢而有条不紊的节奏和高而稳定的声调回荡，散发着冷静的权威和坚定不移的信心。
+
+[5] Label-English:
+slow, formal, stable pitch, high-energy
+
+[6] Label-Chinese:
+慢、正式、稳定声调、高能量

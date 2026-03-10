@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a friendly tone, having a stable pitch and high energy, encouraging listeners to share and rate the program.
+
+[2] Natural-Chinese:
+她的讲话语速适中，语气友好，声线平稳，充满活力，鼓励听众分享和评价节目。
+
+[3] Expressive-English:
+With a smooth, friendly delivery, the speaker's voice flows effortlessly, brimming with warmth and energy, inviting listeners to engage and spread the word.
+
+[4] Expressive-Chinese:
+她的声音流畅而友好，充满了温暖和活力，邀请听众参与并传播这个节目。
+
+[5] Label-English:
+medium, friendly, stable pitch, high energy
+
+[6] Label-Chinese:
+适中、友好、稳定声线、高能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is soft and clear, moving at a medium pace with a calm, contemplative tone and high energy, projecting warmth and sincerity.
+
+[2] Natural-Chinese:
+她的声音柔和清晰，语速适中，情绪平静沉思，充满温暖和真诚，能量高。
+
+[3] Expressive-English:
+With a soft, clear voice, she speaks calmly and contemplatively, conveying warmth and sincerity in a medium pace, high-energy delivery.
+
+[4] Expressive-Chinese:
+她用柔和清晰的声音，平静沉思地表达，充满了温暖和真诚，语速适中，能量高。
+
+[5] Label-English:
+medium pace, calm, clear pitch, high energy
+
+[6] Label-Chinese:
+适中语速、平静、清晰声调、高能量

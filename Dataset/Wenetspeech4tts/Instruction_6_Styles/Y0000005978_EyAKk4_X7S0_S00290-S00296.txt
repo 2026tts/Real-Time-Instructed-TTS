@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice rises with surprise and suspicion, while the male voice, lower and more distant, provides a measured response, creating a tense, investigative atmosphere.
+
+[2] Natural-Chinese:
+她的语气充满惊讶和怀疑，而男性的声音则较低且较为遥远，提供了一种冷静的回应，营造出紧张的调查氛围。
+
+[3] Expressive-English:
+The female voice surges with rising pitch and suspicion, while the male voice, in a lower, more distant tone, offers a measured response, building a tense investigative tension.
+
+[4] Expressive-Chinese:
+女声带着上升的音调和怀疑的情绪，而男性的声音则更低沉且更遥远，以一种冷静的口吻回应，营造出紧张的调查气氛。
+
+[5] Label-English:
+rising pitch, suspicious, male distant, measured response
+
+[6] Label-Chinese:
+上升音调、怀疑、男性遥远、冷静回应

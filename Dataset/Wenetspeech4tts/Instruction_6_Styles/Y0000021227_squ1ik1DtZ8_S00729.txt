@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a calm, matter-of-fact tone and a stable pitch, maintaining a low energy level.
+
+[2] Natural-Chinese:
+语气平稳、语速适中，声调稳定，能量较低。
+
+[3] Expressive-English:
+In a quiet, office-like setting, a calm, businesslike voice delivers a straightforward message at a medium pace, with a stable pitch and low energy.
+
+[4] Expressive-Chinese:
+在一个安静的办公室环境中，一个冷静、商务化的嗓音以适中的语速传达了一条直接的信息，声调稳定，能量较低。
+
+[5] Label-English:
+medium speed, calm, stable pitch, low energy
+
+[6] Label-Chinese:
+中速、冷静、稳定声调、低能量

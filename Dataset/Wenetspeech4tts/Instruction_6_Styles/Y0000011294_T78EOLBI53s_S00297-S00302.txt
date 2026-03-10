@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is medium-paced with a stable pitch and high energy, showing a mix of professionalism and friendly banter.
+
+[2] Natural-Chinese:
+讲话节奏适中、声调平稳，能量高，表现出职业与友好的互动。
+
+[3] Expressive-English:
+Professional and friendly tones blend together in a lively exchange, with crisp, measured speech and a high-energy, engaging delivery.
+
+[4] Expressive-Chinese:
+职业与友好交织在一起，在快速而清晰的对话中展现得淋漓尽致，充满活力和吸引力。
+
+[5] Label-English:
+medium, stable, high-energy, professional, friendly
+
+[6] Label-Chinese:
+适中、平稳、高能量、职业、友好

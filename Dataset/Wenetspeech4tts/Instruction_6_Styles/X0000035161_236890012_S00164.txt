@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is clear and gentle, with a high pitch and medium energy, conveying a mix of anticipation and whimsy before abruptly stopping mid-word.
+
+[2] Natural-Chinese:
+她的声音清晰而柔和，高音调且能量适中，充满期待和奇幻感，然后突然在半句话中停了下来。
+
+[3] Expressive-English:
+A gentle, high-pitched voice narrates whimsically, building anticipation until it abruptly cuts off mid-word, leaving the listener hanging.
+
+[4] Expressive-Chinese:
+一个温柔而高亢的声音讲述着奇幻的故事，充满期待，直到突然在半句话中戛然而止，让听众感到悬念。
+
+[5] Label-English:
+clear, whimsical, high pitch, medium energy, suspenseful, abrupt stop
+
+[6] Label-Chinese:
+清晰、奇幻、高音调、适中能量、悬念、突兀停止

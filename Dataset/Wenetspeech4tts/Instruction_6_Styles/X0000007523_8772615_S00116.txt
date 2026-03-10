@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is delivered at a measured pace with a stable pitch and medium energy, conveying a calm and professional message.
+
+[2] Natural-Chinese:
+语速适中、声线平稳，能量适中，传递出一种平静而专业的信息。
+
+[3] Expressive-English:
+A steady, measured tone carries a clear, formal message, maintaining a calm and professional demeanor throughout the delivery.
+
+[4] Expressive-Chinese:
+语调平稳而坚定，传达的信息清晰正式，语气平静而专业。
+
+[5] Label-English:
+medium pace, calm, stable pitch, medium energy
+
+[6] Label-Chinese:
+适中语速、平静、稳定声线、适中能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+A clear, resonant voice speaks in a slow, contemplative manner with a gentle rise in pitch on "特别" and a softening on "重要的人," conveying warmth and heartfelt gratitude.
+
+[2] Natural-Chinese:
+一个清晰而有共鸣的声音以缓慢而沉思的方式说话，在“特别”上稍微提高音调，在“重要的人”上则柔和下来，传达出温暖和真诚的感激之情。
+
+[3] Expressive-English:
+In a quiet, controlled studio, a resonant voice speaks slowly and contemplatively, rising gently on "特别" and softening on "重要的人," conveying heartfelt gratitude and warmth.
+
+[4] Expressive-Chinese:
+在一个安静而受控的录音室里，一个有共鸣的声音以缓慢而沉思的方式说话，对“特别”稍微提高音调，在“重要的人”上则柔和下来，传达出真诚的感激和温暖。
+
+[5] Label-English:
+slow, contemplative, gentle pitch rise, softening, warm, heartfelt
+
+[6] Label-Chinese:
+慢、沉思、轻微音调上升、柔和、温暖、真诚

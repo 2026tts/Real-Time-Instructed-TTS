@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a calm and slightly playful tone, maintaining a high energy level and a stable pitch.
+
+[2] Natural-Chinese:
+语速适中，语气平静带有一丝趣味，能量高且声线稳定。
+
+[3] Expressive-English:
+A calm, measured voice with a gentle, descending inflection carries a subtle playfulness, maintaining a high energy level and a stable pitch.
+
+[4] Expressive-Chinese:
+语气平静而有节奏，带有轻微下降的语调和趣味感，能量高且声线稳定。
+
+[5] Label-English:
+medium, calm, stable pitch, high-energy
+
+[6] Label-Chinese:
+适中、平静、声线稳定、高能量

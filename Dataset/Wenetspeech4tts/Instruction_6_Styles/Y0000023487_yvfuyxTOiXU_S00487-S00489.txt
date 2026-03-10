@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is clear and expressive, moving with dynamic shifts in pitch and volume, conveying a high-energy, impassioned emotion.
+
+[2] Natural-Chinese:
+她的声音清晰而富有表现力，情感饱满，能量高且充满激情。
+
+[3] Expressive-English:
+With a clear and expressive voice, she delivers an impassioned monologue, her tone swelling and becoming louder on key phrases, conveying a high-energy and emotionally charged performance.
+
+[4] Expressive-Chinese:
+她用清晰而富有表现力的声音，深情地讲述，语气在关键处变得更为激昂和响亮，充满强烈的情感和能量。
+
+[5] Label-English:
+clear, expressive, dynamic pitch and volume, high-energy, impassioned
+
+[6] Label-Chinese:
+清晰、富有表现力、动态音高和音量、高能量、热情

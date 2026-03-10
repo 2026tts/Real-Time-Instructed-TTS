@@ -1,0 +1,17 @@
+[1] Natural-English:
+The narration is delivered at a measured pace, with a smooth, steady tone and no emotional inflection, maintaining a calm and detached energy.
+
+[2] Natural-Chinese:
+叙述平稳而冷静，没有情感起伏，以一种平静而专注的方式进行，保持了中等的能量水平。
+
+[3] Expressive-English:
+A smooth, steady voice narrates with precision, delivering a detached and unemotional story at a measured pace, creating an air of calm focus.
+
+[4] Expressive-Chinese:
+一个平滑而稳定的嗓音精确地讲述着故事，以一种冷静而无情感波动的方式进行，营造出一种平静而专注的氛围。
+
+[5] Label-English:
+measured pace, neutral emotion, stable pitch, medium energy
+
+[6] Label-Chinese:
+中速、中立情绪、稳定音调、中等能量

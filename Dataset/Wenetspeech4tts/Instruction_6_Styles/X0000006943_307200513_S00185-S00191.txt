@@ -1,0 +1,17 @@
+[1] Natural-English:
+The voice is slow and deliberate, with a formal tone and a slightly nasal resonance, conveying a sense of literary calm.
+
+[2] Natural-Chinese:
+语速缓慢而正式，声带略显鼻音，传达出一种文学上的宁静感。
+
+[3] Expressive-English:
+A resonant, slightly nasal voice narrates formally and deliberately, creating a calm yet suspenseful atmosphere, then suddenly interrupted by a harsh, synthetic tone.
+
+[4] Expressive-Chinese:
+那声音带着鼻音，正式而缓慢地叙述着，营造出一种平静但悬疑的氛围，然后突然被一个尖锐的合成音所打断。
+
+[5] Label-English:
+slow, formal, nasal, literary, suspenseful, synthetic tone
+
+[6] Label-Chinese:
+慢、正式、鼻音、文学性、悬疑、合成音

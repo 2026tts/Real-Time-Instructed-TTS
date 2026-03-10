@@ -1,0 +1,17 @@
+[1] Natural-English:
+A slow, calm, and authoritative voice with a deep, baritone tone and high energy delivers a formal declaration in a controlled indoor environment.
+
+[2] Natural-Chinese:
+一个深沉浑厚、语气冷静而权威的声音，在受控的室内环境中缓缓宣布正式声明，充满高能量。
+
+[3] Expressive-English:
+A deep, baritone voice, calm and authoritative, slowly but confidently delivers a formal declaration, resonating with high energy in a controlled indoor setting.
+
+[4] Expressive-Chinese:
+一个深沉浑厚、语气冷静而权威的声音，在受控的室内环境中缓缓而坚定地宣告，充满高能量。
+
+[5] Label-English:
+slow, calm, baritone, high-energy
+
+[6] Label-Chinese:
+慢、冷静、浑厚、高能量

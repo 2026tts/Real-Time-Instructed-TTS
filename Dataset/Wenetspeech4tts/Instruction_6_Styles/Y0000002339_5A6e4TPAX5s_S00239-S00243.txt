@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, steady voice speaks clearly and deliberately in a low, stable pitch with medium energy.
+
+[2] Natural-Chinese:
+一个平静而稳定的语气清晰而有条不紊，声调平稳，能量适中。
+
+[3] Expressive-English:
+A clear, deliberate voice resonates calmly and steadily, with a low, stable pitch and medium energy, conveying a sense of professional resolve.
+
+[4] Expressive-Chinese:
+一个清晰而有条不紊的声音平静而坚定地响起，声调平稳，能量适中，透露出一种专业的决断力。
+
+[5] Label-English:
+calm, deliberate, stable pitch, medium-energy
+
+[6] Label-Chinese:
+平静、有条不紊、稳定声调、适中能量

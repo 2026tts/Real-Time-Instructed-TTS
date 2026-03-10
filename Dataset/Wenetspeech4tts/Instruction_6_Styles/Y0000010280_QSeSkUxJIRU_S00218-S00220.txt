@@ -1,0 +1,17 @@
+[1] Natural-English:
+A slow, ominous voice with a northern Mandarin accent speaks with measured, deliberate pace, conveying a sense of tension and accusation.
+
+[2] Natural-Chinese:
+一个缓慢而阴沉的声音，带有北方口音，语气谨慎且充满紧张感和指控。
+
+[3] Expressive-English:
+The deep, gravelly voice drags out each word with a slow, ominous rhythm, emphasizing the gravity of the accusation and the tension in the air.
+
+[4] Expressive-Chinese:
+那低沉沙哑的声音拖着每个字，以缓慢而阴沉的节奏强调指控的严重性和空气中的紧张感。
+
+[5] Label-English:
+slow, ominous, measured, low-energy
+
+[6] Label-Chinese:
+慢、阴沉、谨慎、低能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice starts softly and steadily, inviting a close and intimate conversation, with a playful and measured tone, and then shifts to a more assertive and critical delivery, finishing abruptly without a natural conclusion.
+
+[2] Natural-Chinese:
+她的声音一开始平稳而亲切，带有一丝玩味，然后变得更为坚定和批判，但突然中断，没有自然的结尾。
+
+[3] Expressive-English:
+A soft, steady inhalation introduces a close and intimate conversation, transitioning smoothly from a playful and measured tone to a more assertive and critical delivery, only to be abruptly cut off mid-thought.
+
+[4] Expressive-Chinese:
+一个温柔稳定的呼吸声引入了一种亲密对话，从轻松有趣的语气平滑过渡到更坚定批评的语气，但突然在半句话中戛然而止。
+
+[5] Label-English:
+soft, steady, playful, measured, assertive, critical, abrupt, unfinished
+
+[6] Label-Chinese:
+轻柔、稳定、玩味、有节制、坚定、批判、突兀、未完

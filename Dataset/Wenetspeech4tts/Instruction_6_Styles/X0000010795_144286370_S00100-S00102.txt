@@ -1,0 +1,17 @@
+[1] Natural-English:
+The female speaker's voice picks up speed and rises in pitch, conveying a mix of surprise and anger, with a high-energy delivery.
+
+[2] Natural-Chinese:
+女发言人语速加快，声调升高，充满惊讶和愤怒的情绪，能量很高。
+
+[3] Expressive-English:
+The narrator's voice builds up, becoming faster and higher-pitched, reflecting a surge of surprise and anger, delivering the news with intense energy.
+
+[4] Expressive-Chinese:
+叙述者的语速加快，声调升高，带着惊讶和愤怒的情感，以高能量的方式传达新闻。
+
+[5] Label-English:
+fast, surprised, high pitch, high energy
+
+[6] Label-Chinese:
+快、惊讶、高音调、高能量

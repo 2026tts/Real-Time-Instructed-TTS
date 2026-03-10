@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a medium pace with a stable pitch and medium energy, reflecting a measured and slightly melancholic tone.
+
+[2] Natural-Chinese:
+这段演讲语速适中，声调平稳且带有淡淡的忧郁感，能量适中。
+
+[3] Expressive-English:
+A measured, slightly melancholic voice conveys a reflective statement with a steady pace and stable pitch, creating a calm yet thoughtful atmosphere.
+
+[4] Expressive-Chinese:
+这声音平静而略带忧郁，语气平稳，传达出一种反思性的陈述，节奏稳定，营造出一种平和而深思的氛围。
+
+[5] Label-English:
+medium, sad, stable pitch, medium-energy
+
+[6] Label-Chinese:
+适中、悲伤、稳定音调、适中能量

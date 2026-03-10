@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered at a measured pace with a stable pitch and medium energy, sounding factual and neutral.
+
+[2] Natural-Chinese:
+这段话以稳定的声音和中等的能量平稳地说出，语气客观且没有情感波动。
+
+[3] Expressive-English:
+A steady, clear voice speaks in a straightforward, factual manner, maintaining a calm and unemotional tone throughout.
+
+[4] Expressive-Chinese:
+这声音平稳而清晰，语气直接且无情感波动，整个过程保持平静和客观。
+
+[5] Label-English:
+measured, neutral, stable pitch, medium-energy
+
+[6] Label-Chinese:
+平稳、中等能量、中性、稳定音调

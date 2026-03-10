@@ -1,0 +1,17 @@
+[1] Natural-English:
+The narration is fast and energetic, with a high pitch and stable energy, immersing the listener in a bustling supermarket setting.
+
+[2] Natural-Chinese:
+叙述快速而充满活力，声调高且能量稳定，将听众带入繁忙的超市环境。
+
+[3] Expressive-English:
+A high-pitched, energetic voice races through the story, capturing the bustling supermarket atmosphere with crisp, clear enunciation.
+
+[4] Expressive-Chinese:
+那声音高亢而充满活力，迅速讲述故事，清晰地捕捉繁忙超市的氛围。
+
+[5] Label-English:
+fast, energetic, high pitch, stable energy
+
+[6] Label-Chinese:
+快、充满活力、高音调、稳定能量

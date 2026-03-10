@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice flows at a moderate pace with a calm, slightly melancholic tone and medium pitch, delivering the narration with a steady, unhurried energy.
+
+[2] Natural-Chinese:
+她的语速适中、情绪平和略带忧郁，声调平稳，整体能量稳定。
+
+[3] Expressive-English:
+A gentle, measured voice carries the narration in a steady, unhurried rhythm, each phrase paused subtly to enhance reflection and anticipation, like a calm stream flowing through a quiet forest.
+
+[4] Expressive-Chinese:
+那声音温和而有节奏，平缓而不急促，每句话之间都有微妙的停顿，仿佛在安静的森林里缓缓流淌的一条平静的小溪。
+
+[5] Label-English:
+moderate pace, calm, slightly melancholic tone, medium pitch, steady energy
+
+[6] Label-Chinese:
+适中语速、平和略带忧郁、中等声调、稳定能量

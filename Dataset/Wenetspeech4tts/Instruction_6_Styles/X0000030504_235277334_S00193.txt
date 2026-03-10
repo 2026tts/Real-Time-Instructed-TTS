@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is slow and even, with a high, soft pitch and medium energy, conveying a calm and composed demeanor.
+
+[2] Natural-Chinese:
+她的语速平稳、声音柔和且高亢，充满平静和镇定的情绪，能量适中。
+
+[3] Expressive-English:
+A calm, composed voice speaks softly and evenly, with a high, soothing pitch, setting a tranquil tone.
+
+[4] Expressive-Chinese:
+那声音柔和而平稳，带着高亢的舒缓音调，营造出宁静的氛围。
+
+[5] Label-English:
+slow, calm, high pitch, medium energy
+
+[6] Label-Chinese:
+慢、平静、高音调、适中能量

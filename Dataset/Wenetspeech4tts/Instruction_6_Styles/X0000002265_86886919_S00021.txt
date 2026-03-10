@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is clear and gentle, moving at a steady pace with a high pitch and medium energy, delivering the story calmly and expressively.
+
+[2] Natural-Chinese:
+她的声音清晰柔和，语速平稳，高音调且能量适中，讲述故事时平静而富有表现力。
+
+[3] Expressive-English:
+A young girl’s voice rings out clearly and gently, flowing at a steady pace with a high, expressive pitch, as she narrates the classic fairy tale with clarity and precision.
+
+[4] Expressive-Chinese:
+一个年轻女孩的声音清晰柔和地响起，语速平稳，高音调且充满表达力，她用清晰精准的声音讲述着经典的童话故事。
+
+[5] Label-English:
+clear, calm, high pitch, medium energy
+
+[6] Label-Chinese:
+清晰、平静、高音调、中等能量

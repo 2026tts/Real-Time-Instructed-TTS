@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, slightly weary voice speaks slowly and steadily, while a distant, agitated voice bursts out rapidly and forcefully, creating a stark emotional contrast.
+
+[2] Natural-Chinese:
+一个平静略带疲惫的声音缓缓而坚定地说着，而远处另一个声音突然急切而高亢地爆发，形成了鲜明的情绪对比。
+
+[3] Expressive-English:
+A calm, slightly weary voice maintains a measured pace, while a distant, agitated voice suddenly erupts in rapid, high-pitched force, creating a stark emotional contrast.
+
+[4] Expressive-Chinese:
+一个平静略带疲惫的声音保持缓慢而有节奏的语速，而远处另一个声音突然以快速高亢的力量爆发出来，形成了鲜明的情绪对比。
+
+[5] Label-English:
+calm, slightly weary, measured, slow; agitated, rapid, high-pitched, forceful
+
+[6] Label-Chinese:
+平静、略带疲惫、有节奏、缓慢；激动、快速、高亢、有力

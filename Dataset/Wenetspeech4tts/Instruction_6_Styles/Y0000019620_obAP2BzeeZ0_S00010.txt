@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, slightly breathy voice speaks softly and unhurriedly, with a clear and gentle tone, conveying a sense of relaxed contemplation.
+
+[2] Natural-Chinese:
+一个平静、略带气息的声音缓缓而清晰地讲述着，语气柔和，透露出一种轻松的沉思感。
+
+[3] Expressive-English:
+A soft, clear voice whispers gently, moving at a natural, contemplative pace, as if sharing a personal reflection in a quiet, intimate space.
+
+[4] Expressive-Chinese:
+一个柔和的声音轻声细语，以自然而沉思的速度讲述着，仿佛在一个安静而私密的空间里分享个人的感悟。
+
+[5] Label-English:
+calm, gentle, breathy, contemplative, low-energy
+
+[6] Label-Chinese:
+平静、柔和、气息、沉思、低能量

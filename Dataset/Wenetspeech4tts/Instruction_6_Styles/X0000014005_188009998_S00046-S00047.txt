@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is slow and low, with a gentle and stable pitch, conveying a calm and intimate emotion, and low energy.
+
+[2] Natural-Chinese:
+她的语速缓慢、音调平稳且低沉，传达出一种平静而亲密的情绪，能量较低。
+
+[3] Expressive-English:
+A soft, slow voice flows gently, like a stream on a quiet day, carrying a calm and intimate emotion with a low, stable pitch and minimal energy.
+
+[4] Expressive-Chinese:
+声音轻柔缓慢，如同宁静日子里的溪流，带着平静和亲密的情绪，音调低而稳定，能量微弱。
+
+[5] Label-English:
+slow, calm, low pitch, stable, low-energy
+
+[6] Label-Chinese:
+慢、平静、低音调、稳定、低能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is steady and medium-paced, with a high and stable pitch, conveying a formal and calm demeanor.
+
+[2] Natural-Chinese:
+她的语速平稳、中等节奏，声调高且稳定，传递出一种正式和冷静的情绪。
+
+[3] Expressive-English:
+A precise and measured voice speaks in a formal and calm manner, with a high and stable pitch, reflecting a carefully crafted narrative.
+
+[4] Expressive-Chinese:
+那声音精准而有节奏，语气正式且平静，声调高而稳定，仿佛精心构建的故事叙述。
+
+[5] Label-English:
+medium pace, formal, high pitch, stable
+
+[6] Label-Chinese:
+中等语速、正式、高音调、稳定

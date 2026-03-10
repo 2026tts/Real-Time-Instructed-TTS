@@ -1,0 +1,17 @@
+[1] Natural-English:
+The speech is delivered in a slow, formal manner with a mid-low, stable pitch and high energy, resembling a dramatic reading.
+
+[2] Natural-Chinese:
+这段演讲以缓慢而正式的语速进行，声调平稳且能量高，类似戏剧朗读。
+
+[3] Expressive-English:
+A mature male voice, in a slow, formal tone, resonates with a mid-low, stable pitch, delivering the lines with high energy and precision.
+
+[4] Expressive-Chinese:
+一个成熟男声以缓慢而正式的语调响起，声线平稳且能量充沛，精准地传达着台词。
+
+[5] Label-English:
+slow, formal, stable pitch, high-energy
+
+[6] Label-Chinese:
+慢、正式、稳定声调、高能量

@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice is clear and bright, delivered at a moderate pace with a slightly high pitch and stable energy.
+
+[2] Natural-Chinese:
+她的声音清晰明亮，语速适中，音调略高且能量稳定。
+
+[3] Expressive-English:
+A clear, bright voice floats gently through the air, with a moderate pace and a slightly elevated tone, carrying a sense of youthful enthusiasm.
+
+[4] Expressive-Chinese:
+那声音轻快明亮，语速适中，带着微微提升的音调，洋溢着青春的活力。
+
+[5] Label-English:
+moderate, neutral, high pitch, stable energy
+
+[6] Label-Chinese:
+中速、中性、高音调、稳定能量

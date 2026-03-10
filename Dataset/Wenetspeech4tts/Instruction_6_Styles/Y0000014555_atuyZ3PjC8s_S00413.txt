@@ -1,0 +1,17 @@
+[1] Natural-English:
+Her voice starts softly with a gentle, amused sigh before shifting to a clear, polite "谢谢", then continues in a calm, slightly quicker pace with a breathy exhale at the end, showing a mix of sincerity and playful irony.
+
+[2] Natural-Chinese:
+她的声音先轻柔地带着一丝轻松的叹息，然后用清晰礼貌的“谢谢”，接着以平静略快的语速继续说，最后带着轻微的呼吸声结束，表现出真诚与幽默的结合。
+
+[3] Expressive-English:
+A soft, intimate sigh introduces the conversation, followed by a clear, polite "谢谢", then transitions to a calm, slightly quicker pace with a gentle breathy exhale, reflecting a blend of sincerity and playful humor.
+
+[4] Expressive-Chinese:
+轻柔的叹息引入对话，随后是清晰礼貌的“谢谢”，接着转为平静略快的语速，最后带着轻微的呼吸声结束，反映出真诚与幽默的融合。
+
+[5] Label-English:
+soft, amused, clear, calm, quick, breathy, sincere, playful
+
+[6] Label-Chinese:
+轻柔、轻松、清晰、平静、快速、带呼吸、真诚、幽默

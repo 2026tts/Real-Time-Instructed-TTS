@@ -1,0 +1,17 @@
+[1] Natural-English:
+A calm, clear, and measured voice speaks in a professional, steady manner with medium energy and a neutral tone.
+
+[2] Natural-Chinese:
+一个冷静清晰的声音以专业、平稳的语气表达，语速适中，能量稳定。
+
+[3] Expressive-English:
+A neutral, clear voice delivers the statement with a calm, measured pace and medium energy, like a soothing report of progress.
+
+[4] Expressive-Chinese:
+一个平静清晰的声音以稳重的语速传达信息，语气平和，能量适中，如同一份令人安心的进步报告。
+
+[5] Label-English:
+professional, clear, measured, medium-energy
+
+[6] Label-Chinese:
+专业、清晰、稳重、适中能量
